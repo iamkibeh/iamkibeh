@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/kibet-immanuel"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+<a href="https://www.linkedin.com/in/kibet-immanuel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
 <a href="mailto:kibetimmanuel0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
 <a href="http://wa.me//254716246708"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
 <a href="https://github.com/iamkibeh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
