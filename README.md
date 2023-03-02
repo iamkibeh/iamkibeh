@@ -74,6 +74,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/iamkibeh/">
 <img title= "IamKibe's GitHub stats" width=350 src="https://github-readme-stats.vercel.app/api?username=iamkibeh&show_icons=true&theme=radical" />
  </a>
+ <a href="https://github.com/iamkibeh">
+    <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkibeh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css"/>
+  </a>
+
 </p>
 <br>
 <hr>
