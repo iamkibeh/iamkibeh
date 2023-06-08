@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <br>
   📚 I’m currently focusing on Frontend web development.
   <br>
-  👯 I’m looking to lerning NextJs.
+  👯 I’m looking to lerning NodeJs.
   <br>
   ⚡ Fun fact:
   Did you know that there are around 700 separate programming languages? 😄
